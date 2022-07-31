@@ -1,0 +1,145 @@
+{
+    "domain": "bergsportprofi.net",
+    "hostname": "https://www.bergsportprofi.net",
+    "email": "bergsportprofi-net@surrealnetworks.io",
+    "organization": "bergsportprofi.net",
+    "logoText": "Bergsportprofi.net",
+    "title": "Bergsport Ausrüstung",
+    "subline": "Der Shop für Bergsport Profis",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 24,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637931984", "5637743427", "5637510895"
+    ],
+    "winnerProducts": [
+        "5637952249",
+        "5637651625",
+        "5637935932"
+    ],
+    "featuredCategories": [
+        "Kletterbekleidung",
+        "Kletterseile",
+        "Trekkingstöcke",
+        "Kletterschuhe",
+        "Klettergurte",
+        "Eispickel"
+    ],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/campingtoilette",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Kletterausrüstung",
+        "featureText": "<p class=\"mb-4\">Willkommen auf BergsportProfi.net - deinem Shop für professionelle Kletterausrüstung.</p><p>Stelle dich der Herausforderung: Mit der richtigen Kletterausrüstung, den optimalen Kletterschuhen, Kletterseilen und Karabinern hast du mehr Erfolg beim Erklimmen deines Berges. In unserem Shop findest du alles was du für den Kletter- und Bergsport benötigst.</p><p>Daher führen wir lediglich zuverlässige Produkte in unserem Shop und testen diese auf folgende Testkriterien:</p>",
+        "index": {
+            "title": "Professionelle Kletterausrüstung für den Bergsport | Shop",
+            "metaDescription": "In unserem Shop findest du Kletterausrüstung für den Bergsport. Stelle dich der Herausforderung und erklimme mit der richtigen Ausrüstung jeden Berg.",
+            "robots": "index, follow"
+        },
+        "shop": {
+            "title": "Kletterausrüstung | Shop Übersicht",
+            "metaDescription": "Der Shop für Kletterausrüstung. Erklimme jeden Berg mit der richtigen Ausrüstung: Kletterausrüstung, Kletterbekleidung, Kletterseile, Kletterschuhe, uvm.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Übersicht aller Hersteller für Kletterausrüstung",
+            "metaDescription": "Auf dieser Seite findest du sämtliche Marken und Produkte von Herstellern für Kletterausrüstung. Top Marken mit Best-Preis-Garantie. Produkte auf Lager.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Shop für Kletterausrüstung",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER in unserem Shop kaufen. Vergleiche die $PRODUKT mit anderer Kletterausrüstung in der Kategorie $KATEGORIE.",
+        "defaultRobots": "noindex, follow",
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Shop für Kletterausrüstung",
+        "defaultMetaDescription": "Kaufe Produkte und Testsieger aus der Kategorie $KATEGORIE in unserem Shop für optimale Kletterausrüstung.",
+        "defaultRobots": "index, follow",
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "Kletterausrüstung von $HERSTELLER | Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick. Finde die beste Kletterausrüstung von der Marke $HERSTELLER. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "index, follow",
+        "brands": [{
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "adidas",
+                "name": "Adidas",
+                "seo": {
+                    "title": "Produkte von Adidas günstig kaufen",
+                    "metaDescription": "Alle Produkte von Adidas im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Sicherheit",
+        "Zuverlässigkeit",
+        "Wiederstandsfähigkeit",
+        "Strapazierbarkeit",
+        "Haltbarkeit"
+    ],
+    "navigationLinks": [{
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Kletterausrüstung für Bergsportler",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Kletterausrüstung Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Sortiert nach Marken für Kletterausrüstung"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ]
+}
