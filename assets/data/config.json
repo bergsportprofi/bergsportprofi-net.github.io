@@ -59,7 +59,7 @@
     "productSeo": {
         "defaultTitle": "$PRODUKT online kaufen | Shop für Kletterausrüstung",
         "defaultMetaDescription": "$PRODUKT vom $HERSTELLER in unserem Shop kaufen. Vergleiche die $PRODUKT mit anderer Kletterausrüstung in der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
