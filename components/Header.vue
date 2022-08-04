@@ -96,7 +96,6 @@
 
 <script>
 import config from "~/assets/data/config.json";
-import db from "~/utils/database.js";
 import categories from "~/assets/data/categories.json";
 
 export default {
