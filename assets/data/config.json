@@ -44,7 +44,69 @@
         "index": {
             "title": "Professionelle Kletterausrüstung für den Bergsport | Shop",
             "metaDescription": "In unserem Shop findest du Kletterausrüstung für den Bergsport. Stelle dich der Herausforderung und erklimme mit der richtigen Ausrüstung jeden Berg.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [
+                {
+                  "title": "Willkommen bei bergsportprofi.net - Ob Sie ein Anfänger oder ein erfahrener Outdoor-Enthusiast sind, wir haben für jeden etwas.",
+                  "text": "Wir bei Bergsportprofi.net wissen, dass unseren Kunden ein gutes Preis-Leistungs-Verhältnis wichtig ist. Deshalb bieten wir wettbewerbsfähige Preise für alle unsere Produkte, ohne Kompromisse bei der Qualität einzugehen. Außerdem bieten wir regelmäßig Sonderangebote und Rabatte an, um Ihr Outdoor-Abenteuer erschwinglicher zu machen. Mit unserer großen Auswahl an Produkten, unserem außergewöhnlichen Kundenservice und unseren wettbewerbsfähigen Preisen ist Bergsportprofi.net die perfekte Wahl für alle Ihre Outdoor-Abenteuer. Stöbern Sie noch heute auf unserer Website und starten Sie Ihr nächstes Abenteuer!"
+                },
+                {
+                  "title": "Klettersteigsets",
+                  "text": "Entdecken Sie unsere breite Auswahl an <a href=\"/kategorie/klettersteigsets/\" title=\"Klettersteigsets\">Klettersteigsets</a>, die speziell für Abenteuer in den Bergen entwickelt wurden. Unsere Produkte zeichnen sich durch eine hohe Qualität und hervorragende Verarbeitung aus, um Ihre Sicherheit und Ihren Komfort zu gewährleisten. Egal, ob Sie ein Anfänger oder ein erfahrener Kletterer sind, bei uns finden Sie das passende Klettersteigset."
+                },
+                {
+                  "title": "Kletterhelme",
+                  "text": "Ein <a href=\"/kategorie/kletterhelme/\" title=\"Kletterhelm\">Kletterhelm</a> ist unerlässlich, um Ihre Sicherheit bei jedem Kletterabenteuer zu gewährleisten. Bei Bergsportprofi.net bieten wir eine große Auswahl an hochwertigen Kletterhelmen, die sowohl bequem als auch langlebig sind. Mit unseren Produkten können Sie sich auf Ihre Klettertour konzentrieren und das Abenteuer genießen."
+                },
+                {
+                  "title": "Reepschnüre und Schlingen",
+                  "text": "<a href=\"/kategorie/reepschnuere-und-schlingen/\" title=\"Reepschnüre und Schlingen\">Reepschnüre und Schlingen</a> sind ein wichtiger Bestandteil der Kletterausrüstung. Bei uns finden Sie hochwertige Produkte, die speziell für den Einsatz in den Bergen entwickelt wurden. Unsere Reepschnüre und Schlingen zeichnen sich durch ihre hohe Belastbarkeit und ihre hervorragende Qualität aus."
+                },
+                {
+                  "title": "Klettergurte",
+                  "text": "Ein guter <a href=\"/kategorie/klettergurte/\" title=\"Klettergurt\">Klettergurt</a> ist unerlässlich, um Ihre Sicherheit beim Klettern zu gewährleisten. Bei Bergsportprofi.net finden Sie eine große Auswahl an Klettergurten, die bequem und sicher sind."
+                },
+                {
+                  "title": "Höhensicherheit und Geocaching",
+                  "text": "Unsere Produkte für <a href=\"/kategorie/hoehensicherheit-und-geocaching/\" title=\"Höhensicherheit und Geocaching\">Höhensicherheit und Geocaching</a> bieten Ihnen die notwendige Sicherheit und Unterstützung für Ihr Abenteuer in den Bergen."
+                },
+                {
+                  "title": "Kletterschuhe",
+                  "text": "Gute <a href=\"/kategorie/kletterschuhe/\" title=\"Kletterschuhe\">Kletterschuhe</a> sind unerlässlich für jedes Kletterabenteuer. Bei Bergsportprofi.net finden Sie eine breite Palette an Kletterschuhen, die bequem und funktional sind. Unsere Kletterschuhe sind von führenden Marken hergestellt und erfüllen höchste Qualitätsstandards."
+                },
+                {
+                  "title": "Karabiner",
+                  "text": "<a href=\"/kategorie/karabiner/\" title=\"Karabiner\">Karabiner</a> sind ein wichtiger Bestandteil der Kletterausrüstung. Wir bieten eine breite Palette an hochwertigen Karabinern, die für verschiedene Anforderungen und Bedürfnisse geeignet sind. Unsere Karabiner zeichnen sich durch ihre hohe Belastbarkeit und ihre hervorragende Qualität aus."
+                },
+                {
+                  "title": "Kletterbekleidung",
+                  "text": "Bei uns finden Sie hochwertige <a href=\"/kategorie/kletterbekleidung/\" title=\"Kletterbekleidung\">Kletterbekleidung</a>, die bequem, funktional und strapazierfähig ist. Wir bieten eine breite Palette an Produkten, die für verschiedene Anforderungen und Bedürfnisse geeignet sind."
+                },
+                {
+                  "title": "Kletterzubehör",
+                  "text": "Unser <a href=\"/kategorie/kletterzubehoer/\" title=\"Kletterzubehör\">Kletterzubehör</a> umfasst eine breite Palette von Produkten, die für ein sicheres und erfolgreiches Kletterabenteuer notwendig sind. Wir bieten hochwertige Produkte, die für verschiedene Anforderungen und Bedürfnisse."
+                },
+                {
+                  "title": "Chalkbags und Chalk",
+                  "text": "<a href=\"/kategorie/chalkbags-und-chalk/\" title=\"Chalkbags und Chalk\">Chalkbags und Chalk</a> sind für jeden Kletterer wichtig. Wir bieten eine breite Palette von Chalkbags und Chalk, die für jedes Kletterabenteuer geeignet sind."
+                },
+                {
+                  "title": "Kletterseile",
+                  "text": "Bergsport erfordert <a href=\"/kategorie/kletterseile/\" title=\"Kletterseile\">Kletterseile</a> die für jedes Abenteuer unverzichtbar sind. In unserem Sortiment finden Sie eine umfangreiche Auswahl an Kletterseilen, die für unterschiedliche Ansprüche und Bedürfnisse geeignet sind. Wir führen nur Produkte namhafter Hersteller, die höchsten Qualitätsanforderungen entsprechen."
+                },
+                {
+                  "title": "Eisausrüstung",
+                  "text": "Für jedes Abenteuer auf dem Eis bieten wir Ihnen qualitativ hochwertige <a href=\"/kategorie/eisausruestung/\" title=\"Eisausrüstung\">Eisausrüstung</a> an, die sowohl für Ihre Sicherheit als auch für Ihren Komfort entwickelt wurde. Unsere Produkte zeichnen sich durch hohe Qualität und Langlebigkeit aus und werden von führenden Markenherstellern gefertigt."
+                },
+                {
+                  "title": "Trekkingstöcke",
+                  "text": "Für jede Bergsteigerin und jeden Bergsteiger sind <a href=\"/kategorie/trekkingstoecke/\" title=\"Trekkingstöcke\">Trekkingstöcke</a> unerlässlich. Für unterschiedliche Anforderungen und Bedürfnisse bieten wir ein breites Sortiment an Trekkingstöcken an. Unsere Trekkingstöcke sind von führenden Marken und erfüllen höchste Qualitätsansprüche."
+                },
+                {
+                  "title": "Klettertraining und Klettergriffe",
+                  "text": "Unser <a href=\"/kategorie/trekkingstoecke/\" title=\"Klettertraining und Klettergriffe\">Klettertraining und Klettergriffe</a> helfen Ihnen, Ihre Kletterfähigkeiten zu verbessern. Wir bieten eine breite Produktpalette für Anfänger und Fortgeschrittene. Unsere Produkte zeichnen sich durch hohe Qualität und Langlebigkeit aus."
+                }
+              ]
         },
         "shop": {
             "title": "Kletterausrüstung | Shop Übersicht",
