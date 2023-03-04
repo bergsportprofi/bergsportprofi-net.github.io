@@ -1,1 +1,186 @@
-[{"key": "klettersteigsets", "name": "Klettersteigsets", "slug": "klettersteigsets", "productCategory": "Klettersteigsets", "subCategories": []}, {"key": "kletterhelme", "name": "Kletterhelme", "slug": "kletterhelme", "productCategory": "Kletterhelme", "subCategories": []}, {"key": "reepschnüre und schlingen", "name": "Reepschnüre und Schlingen", "slug": "reepschnuere-und-schlingen", "productCategory": "Reepschnüre und Schlingen", "subCategories": []}, {"key": "klettergurte", "name": "Klettergurte", "slug": "klettergurte", "productCategory": "Klettergurte", "subCategories": []}, {"key": "höhensicherheit und geocaching", "name": "Höhensicherheit und Geocaching", "slug": "hoehensicherheit-und-geocaching", "productCategory": "Höhensicherheit und Geocaching", "subCategories": []}, {"key": "kletterschuhe", "name": "Kletterschuhe", "slug": "kletterschuhe", "productCategory": "Kletterschuhe", "subCategories": []}, {"key": "karabiner", "name": "Karabiner", "slug": "karabiner", "productCategory": "Karabiner", "subCategories": []}, {"key": "kletterbekleidung", "name": "Kletterbekleidung", "slug": "kletterbekleidung", "productCategory": "Kletterbekleidung", "subCategories": [{"key": "kletterhandschuhe und accessoires", "name": "Kletterhandschuhe und Accessoires", "slug": "kletterhandschuhe-und-accessoires", "productCategory": "Kletterhandschuhe und Accessoires"}, {"key": "klettershirts und pullover", "name": "Klettershirts und Pullover", "slug": "klettershirts-und-pullover", "productCategory": "Klettershirts und Pullover"}, {"key": "kletterhosen", "name": "Kletterhosen", "slug": "kletterhosen", "productCategory": "Kletterhosen"}]}, {"key": "kletterzubehör", "name": "Kletterzubehör", "slug": "kletterzubehoer", "productCategory": "Kletterzubehör", "subCategories": []}, {"key": "chalkbags und chalk", "name": "Chalkbags und Chalk", "slug": "chalkbags-und-chalk", "productCategory": "Chalkbags und Chalk", "subCategories": [{"key": "chalkbags", "name": "Chalkbags", "slug": "chalkbags", "productCategory": "Chalkbags"}, {"key": "chalk", "name": "Chalk", "slug": "chalk", "productCategory": "Chalk"}]}, {"key": "kletterseile", "name": "Kletterseile", "slug": "kletterseile", "productCategory": "Kletterseile", "subCategories": []}, {"key": "eisausrüstung", "name": "Eisausrüstung", "slug": "eisausruestung", "productCategory": "Eisausrüstung", "subCategories": [{"key": "eispickel", "name": "Eispickel", "slug": "eispickel", "productCategory": "Eispickel"}, {"key": "steigeisen und grödel", "name": "Steigeisen und Grödel", "slug": "steigeisen-und-groedel", "productCategory": "Steigeisen und Grödel"}, {"key": "zubehör", "name": "Zubehör", "slug": "zubehoer", "productCategory": "Zubehör"}]}, {"key": "trekkingstöcke", "name": "Trekkingstöcke", "slug": "trekkingstoecke", "productCategory": "Trekkingstöcke", "subCategories": []}, {"key": "klettertraining und klettergriffe", "name": "Klettertraining und Klettergriffe", "slug": "klettertraining-und-klettergriffe", "productCategory": "Klettertraining und Klettergriffe", "subCategories": []}, {"key": "slacklines", "name": "Slacklines", "slug": "slacklines", "productCategory": "Slacklines", "subCategories": []}, {"key": "express-sets", "name": "Express-Sets", "slug": "express-sets", "productCategory": "Express-Sets", "subCategories": []}, {"key": "sicherungsgeräte und abseilgeräte", "name": "Sicherungsgeräte und Abseilgeräte", "slug": "sicherungsgeraete-und-abseilgeraete", "productCategory": "Sicherungsgeräte und Abseilgeräte", "subCategories": []}, {"key": "klemmgeräte und klemmkeile", "name": "Klemmgeräte und Klemmkeile", "slug": "klemmgeraete-und-klemmkeile", "productCategory": "Klemmgeräte und Klemmkeile", "subCategories": []}, {"key": "statische seile", "name": "Statische Seile", "slug": "statische-seile", "productCategory": "Statische Seile", "subCategories": []}]
+[
+    {
+        "key": "klettersteigsets",
+        "name": "Klettersteigsets",
+        "slug": "klettersteigsets",
+        "productCategory": "Klettersteigsets",
+        "subCategories": []
+    },
+    {
+        "key": "kletterhelme",
+        "name": "Kletterhelme",
+        "slug": "kletterhelme",
+        "productCategory": "Kletterhelme",
+        "subCategories": []
+    },
+    {
+        "key": "reepschnüre und schlingen",
+        "name": "Reepschnüre und Schlingen",
+        "slug": "reepschnuere-und-schlingen",
+        "productCategory": "Reepschnüre und Schlingen",
+        "subCategories": []
+    },
+    {
+        "key": "klettergurte",
+        "name": "Klettergurte",
+        "slug": "klettergurte",
+        "productCategory": "Klettergurte",
+        "subCategories": []
+    },
+    {
+        "key": "höhensicherheit und geocaching",
+        "name": "Höhensicherheit und Geocaching",
+        "slug": "hoehensicherheit-und-geocaching",
+        "productCategory": "Höhensicherheit und Geocaching",
+        "subCategories": []
+    },
+    {
+        "key": "kletterschuhe",
+        "name": "Kletterschuhe",
+        "slug": "kletterschuhe",
+        "productCategory": "Kletterschuhe",
+        "subCategories": []
+    },
+    {
+        "key": "karabiner",
+        "name": "Karabiner",
+        "slug": "karabiner",
+        "productCategory": "Karabiner",
+        "subCategories": []
+    },
+    {
+        "key": "kletterbekleidung",
+        "name": "Kletterbekleidung",
+        "slug": "kletterbekleidung",
+        "productCategory": "Kletterbekleidung",
+        "subCategories": [
+            {
+                "key": "kletterhandschuhe und accessoires",
+                "name": "Kletterhandschuhe und Accessoires",
+                "slug": "kletterhandschuhe-und-accessoires",
+                "productCategory": "Kletterhandschuhe und Accessoires"
+            },
+            {
+                "key": "klettershirts und pullover",
+                "name": "Klettershirts und Pullover",
+                "slug": "klettershirts-und-pullover",
+                "productCategory": "Klettershirts und Pullover"
+            },
+            {
+                "key": "kletterhosen",
+                "name": "Kletterhosen",
+                "slug": "kletterhosen",
+                "productCategory": "Kletterhosen"
+            }
+        ]
+    },
+    {
+        "key": "kletterzubehör",
+        "name": "Kletterzubehör",
+        "slug": "kletterzubehoer",
+        "productCategory": "Kletterzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "chalkbags und chalk",
+        "name": "Chalkbags und Chalk",
+        "slug": "chalkbags-und-chalk",
+        "productCategory": "Chalkbags und Chalk",
+        "subCategories": [
+            {
+                "key": "chalkbags",
+                "name": "Chalkbags",
+                "slug": "chalkbags",
+                "productCategory": "Chalkbags"
+            },
+            {
+                "key": "chalk",
+                "name": "Chalk",
+                "slug": "chalk",
+                "productCategory": "Chalk"
+            }
+        ]
+    },
+    {
+        "key": "kletterseile",
+        "name": "Kletterseile",
+        "slug": "kletterseile",
+        "productCategory": "Kletterseile",
+        "subCategories": []
+    },
+    {
+        "key": "eisausrüstung",
+        "name": "Eisausrüstung",
+        "slug": "eisausruestung",
+        "productCategory": "Eisausrüstung",
+        "subCategories": [
+            {
+                "key": "eispickel",
+                "name": "Eispickel",
+                "slug": "eispickel",
+                "productCategory": "Eispickel"
+            },
+            {
+                "key": "steigeisen und grödel",
+                "name": "Steigeisen und Grödel",
+                "slug": "steigeisen-und-groedel",
+                "productCategory": "Steigeisen und Grödel"
+            },
+            {
+                "key": "zubehör",
+                "name": "Zubehör",
+                "slug": "zubehoer",
+                "productCategory": "Zubehör"
+            }
+        ]
+    },
+    {
+        "key": "trekkingstöcke",
+        "name": "Trekkingstöcke",
+        "slug": "trekkingstoecke",
+        "productCategory": "Trekkingstöcke",
+        "subCategories": []
+    },
+    {
+        "key": "klettertraining und klettergriffe",
+        "name": "Klettertraining und Klettergriffe",
+        "slug": "klettertraining-und-klettergriffe",
+        "productCategory": "Klettertraining und Klettergriffe",
+        "subCategories": []
+    },
+    {
+        "key": "slacklines",
+        "name": "Slacklines",
+        "slug": "slacklines",
+        "productCategory": "Slacklines",
+        "subCategories": []
+    },
+    {
+        "key": "express-sets",
+        "name": "Express-Sets",
+        "slug": "express-sets",
+        "productCategory": "Express-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "sicherungsgeräte und abseilgeräte",
+        "name": "Sicherungsgeräte und Abseilgeräte",
+        "slug": "sicherungsgeraete-und-abseilgeraete",
+        "productCategory": "Sicherungsgeräte und Abseilgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "klemmgeräte und klemmkeile",
+        "name": "Klemmgeräte und Klemmkeile",
+        "slug": "klemmgeraete-und-klemmkeile",
+        "productCategory": "Klemmgeräte und Klemmkeile",
+        "subCategories": []
+    },
+    {
+        "key": "statische seile",
+        "name": "Statische Seile",
+        "slug": "statische-seile",
+        "productCategory": "Statische Seile",
+        "subCategories": []
+    }
+]
